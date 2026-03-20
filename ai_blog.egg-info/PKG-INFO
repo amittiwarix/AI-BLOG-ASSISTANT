@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: ai_blog
+Version: 0.1
+Summary: A blog application using AI
+Author: Amit
+Dynamic: author
+Dynamic: summary
